@@ -1,12 +1,4 @@
-<div style="
-    background: linear-gradient(135deg, #2ecc71, #1abc9c);
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    color: #8e44ad;
-    text-align: center;
-    border: 2px solid #27ae60;
-    margin: 15px 0;">
+<div >
     <h2 style="
         margin: 0;
         font-family: 'Arial', sans-serif;
@@ -23,8 +15,8 @@
 
 </div>  
 
-
 **Project Overview**  
+
 This project demonstrates an end-to-end machine learning workflow to classify Iris flowers into three distinct species: **Iris Setosa**, **Iris Versicolor**, and **Iris Virginica**. Leveraging the classic Iris dataset—a benchmark dataset widely used in machine learning and statistics—the project encompasses data preprocessing, exploratory data analysis (EDA), model training, hyperparameter tuning, and deployment of a classification system. The goal is to predict the species of an Iris flower based on four morphological features: sepal length, sepal width, petal length, and petal width.  
 
 The workflow begins with loading and cleaning the dataset, followed by statistical and visual analysis to uncover patterns and correlations between features and target classes. Multiple classification algorithms, such as Logistic Regression, Support Vector Machines (SVM), Decision Trees, and k-Nearest Neighbors (k-NN), are trained and evaluated to identify the best-performing model. Performance metrics such as accuracy, precision, recall, and F1-score are used to assess model effectiveness. Finally, the optimized model is serialized and deployed as a lightweight application, enabling users to input feature measurements and receive real-time predictions.  
@@ -32,10 +24,7 @@ The workflow begins with loading and cleaning the dataset, followed by statistic
 ## **Dataset Description**  
 
 The Iris dataset consists of **150 samples** of Iris flowers, each described by four morphological measurements in centimeters:  
-1. **Sepal Length**  
-2. **Sepal Width**  
-3. **Petal Length** (most discriminative feature)  
-4. **Petal Width**  
+**Sepal Length** , **Sepal Width**,  **Petal Length** (most discriminative feature) and **Petal Width**.  
 
 Each sample is labeled with one of three species: *Iris Setosa*, *Iris Versicolor*, or *Iris Virginica*. The dataset is **balanced**, with 50 samples per class, and contains no missing values. Features are numeric and follow biologically plausible ranges (e.g., petal lengths span 1–7 cm). Statistical summaries (mean, median, standard deviation) and histograms are included in the EDA to highlight feature distributions and separability between classes.  
 
