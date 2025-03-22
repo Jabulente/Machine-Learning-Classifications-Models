@@ -1,16 +1,5 @@
 
-### **License**  
-<div align="center">  
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
-</div>  
-
-### **Connect with Me**  
-<div align="center">  
-  [![GitHub](https://img.shields.io/badge/GitHub-jabulente-black?logo=github)](https://github.com/jabulente)  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-jabulente-blue?logo=linkedin)](https://linkedin.com/in/jabulente)  
-  [![Twitter/X](https://img.shields.io/badge/X-%40jabulente-black?logo=x)](https://x.com/jabulente)  
-  [![Email](https://img.shields.io/badge/Email-jabulente@example.com-red?logo=gmail)](mailto:jabulente@example.com)  
-</div>  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  [![GitHub](https://img.shields.io/badge/GitHub-jabulente-black?logo=github)](https://github.com/jabulente)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-jabulente-blue?logo=linkedin)](https://linkedin.com/in/jabulente)  [![Twitter/X](https://img.shields.io/badge/X-%40jabulente-black?logo=x)](https://x.com/jabulente)  [![Email](https://img.shields.io/badge/Email-jabulente@example.com-red?logo=gmail)](mailto:jabulente@example.com)  
 
 
 # **Iris Flower Classification - Machine Learning Project**  
