@@ -1,4 +1,18 @@
 
+### **License**  
+<div align="center">  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+</div>  
+
+### **Connect with Me**  
+<div align="center">  
+  [![GitHub](https://img.shields.io/badge/GitHub-jabulente-black?logo=github)](https://github.com/jabulente)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-jabulente-blue?logo=linkedin)](https://linkedin.com/in/jabulente)  
+  [![Twitter/X](https://img.shields.io/badge/X-%40jabulente-black?logo=x)](https://x.com/jabulente)  
+  [![Email](https://img.shields.io/badge/Email-jabulente@example.com-red?logo=gmail)](mailto:jabulente@example.com)  
+</div>  
+
+
 # **Iris Flower Classification - Machine Learning Project**  
 
 **Project Overview**  
@@ -191,3 +205,14 @@ Confidence: 99.2%
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 
+
+
+
+### **License**  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+
+### **Connect with Me**  
+[![GitHub](https://img.shields.io/badge/GitHub-jabulente-black?logo=github)](https://github.com/jabulente)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jabulente-blue?logo=linkedin)](https://linkedin.com/in/jabulente)  
+[![Twitter/X](https://img.shields.io/badge/X-%40jabulente-black?logo=x)](https://x.com/jabulente)  
+[![Email](https://img.shields.io/badge/Email-jabulente@example.com-red?logo=gmail)](mailto:jabulente@example.com)  
