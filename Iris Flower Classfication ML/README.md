@@ -1,4 +1,21 @@
-
+<div style="
+    background: linear-gradient(135deg, #2ecc71, #1abc9c);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    color: #8e44ad;
+    text-align: center;
+    border: 2px solid #27ae60;
+    margin: 15px 0;">
+    <h2 style="
+        margin: 0;
+        font-family: 'Arial', sans-serif;
+        font-size: 2.2em;
+        text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.3);
+        letter-spacing: 1.5px;">
+        🌸 Iris Flower Classification - Machine Learning Project 🌸
+    </h2>
+</div>
 
 <div align="center">  
 
@@ -6,7 +23,6 @@
 
 </div>  
 
-# **Iris Flower Classification - Machine Learning Project**  
 
 **Project Overview**  
 This project demonstrates an end-to-end machine learning workflow to classify Iris flowers into three distinct species: **Iris Setosa**, **Iris Versicolor**, and **Iris Virginica**. Leveraging the classic Iris dataset—a benchmark dataset widely used in machine learning and statistics—the project encompasses data preprocessing, exploratory data analysis (EDA), model training, hyperparameter tuning, and deployment of a classification system. The goal is to predict the species of an Iris flower based on four morphological features: sepal length, sepal width, petal length, and petal width.  
